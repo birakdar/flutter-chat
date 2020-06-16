@@ -1,0 +1,4 @@
+#Tue Jun 16 12:28:36 EET 2020
+base.0=/home/obaida/IdeaProjects/chat/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
